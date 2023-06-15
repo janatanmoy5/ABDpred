@@ -3,7 +3,7 @@ ABDpred is a prediction server antimicrobial compounds
 
 http://clinicalmedicinessd.com.in/abdpred/
 
-The python packages are required mentioned below.
+The python packages are required for the prediction server.
 
 1. pip install -U scikit-learn
 2. pip install pandas
