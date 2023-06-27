@@ -15,4 +15,4 @@ http://clinicalmedicinessd.com.in/abdpred/
 #8. pip install keras
 #9. pip install php
 
-"ABDpred: Prediction of active antimicrobial compounds using supervised machine learning techniques", By Jana Tanmoy et al. is accepted on Monday, 26 June, 2023for publication in the Indian Journal of Medical Research journal (Impact Factor: 5.274).
+"ABDpred: Prediction of active antimicrobial compounds using supervised machine learning techniques", By Jana Tanmoy et al. is accepted on Monday, 26 June, 2023 for publication in the Indian Journal of Medical Research journal (Impact Factor: 5.274).
